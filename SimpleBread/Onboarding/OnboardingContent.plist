@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>title</key>
+		<string>Hello</string>
+		<key>content</key>
+		<string>Easily track the progress of your bread</string>
+		<key>sfSymbol</key>
+		<string>hourglass</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Optimize Your Bread</string>
+		<key>content</key>
+		<string>Track each step you take like: water, outside tempeture, time of day and more !</string>
+		<key>sfSymbol</key>
+		<string>globe.americas</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Let&apos;s Start</string>
+		<key>content</key>
+		<string>The camera will automatically launch to either, start a new entry or continue an entry you&apos;ve already started</string>
+		<key>sfSymbol</key>
+		<string>camera</string>
+	</dict>
+</array>
+</plist>
